@@ -2,4 +2,4 @@
 
 > Build fast. Ship fast
 
-**This account operates in stealth mode.**
+## This account operates in stealth mode
